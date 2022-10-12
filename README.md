@@ -1,2 +1,2 @@
 # practice
-leaning github
+learning github
